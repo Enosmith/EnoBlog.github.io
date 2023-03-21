@@ -3,11 +3,11 @@
   <title>邓晖的博客</title>
   
   <subtitle>一个爱撸铁的程序员</subtitle>
-  <link href="/EnoBlog.github.io/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://enosmith.github.io/"/>
+  <link href="https://enosmith.github.io/EnoBlog.github.io/"/>
   <updated>2023-03-21T03:07:21.295Z</updated>
-  <id>https://enosmith.github.io/</id>
+  <id>https://enosmith.github.io/EnoBlog.github.io/</id>
   
   <author>
     <name>邓晖</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://enosmith.github.io/2023/03/21/hello-world/"/>
-    <id>https://enosmith.github.io/2023/03/21/hello-world/</id>
+    <link href="https://enosmith.github.io/EnoBlog.github.io/2023/03/21/hello-world/"/>
+    <id>https://enosmith.github.io/EnoBlog.github.io/2023/03/21/hello-world/</id>
     <published>2023-03-21T03:07:21.295Z</published>
     <updated>2023-03-21T03:07:21.295Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://enosmith.github.io/2020/01/14/5w2h-godweiyang/"/>
-    <id>https://enosmith.github.io/2020/01/14/5w2h-godweiyang/</id>
+    <link href="https://enosmith.github.io/EnoBlog.github.io/2020/01/14/5w2h-godweiyang/"/>
+    <id>https://enosmith.github.io/EnoBlog.github.io/2020/01/14/5w2h-godweiyang/</id>
     <published>2020-01-14T07:27:31.000Z</published>
     <updated>2023-03-21T02:56:28.202Z</updated>
     
@@ -61,10 +61,10 @@
     
     </summary>
     
-      <category term="随笔" scheme="https://enosmith.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://enosmith.github.io/EnoBlog.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="博客" scheme="https://enosmith.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://enosmith.github.io/EnoBlog.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
