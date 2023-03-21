@@ -1,2 +1,2 @@
-https://enosmith.github.io/EnoBlog.github.io/2023/03/21/hello-world/
-https://enosmith.github.io/EnoBlog.github.io/2020/01/14/5w2h-godweiyang/
+https://github.com/Enosmith/EnoBlog.github.io/2023/03/21/hello-world/
+https://github.com/Enosmith/EnoBlog.github.io/2020/01/14/5w2h-godweiyang/
